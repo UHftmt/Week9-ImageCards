@@ -66,8 +66,6 @@ const data = [
 function App() {
   return (
     <div className='App' style={{
-      alignItems: 'center',
-      justifyContent: 'center',
       textAlign: 'center',
       fontFamily: 'sans-serif',
     }}>
